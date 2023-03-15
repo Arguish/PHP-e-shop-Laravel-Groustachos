@@ -45,8 +45,7 @@
   </style>
 </head>
 <body>
-      <img style="width: 100px" src="https://www.elcorteingles.es/centroscomerciales/uploads/event/main_picture/4246/Imatge_presentaci__6_d_octubre_-_Ventura.png" alt="">
-
+<a href="/"><img style="width: 100px" src="https://www.elcorteingles.es/centroscomerciales/uploads/event/main_picture/4246/Imatge_presentaci__6_d_octubre_-_Ventura.png" alt=""></a>
   <h1 style="text-align: center">Grouxostacho</h1>
   <form action="#" method="post">
     <h2>Contacto</h2>

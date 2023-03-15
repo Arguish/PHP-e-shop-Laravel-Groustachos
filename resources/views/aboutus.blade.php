@@ -13,7 +13,7 @@
   <p>Con su humor irreverente y su estilo único, Groucho habría sido la persona perfecta para abrir una tienda dedicada a los bigotes. Una vez bromeó: "Tengo ganas de unirme a un club y golpearte en la cabeza con él". Ese mismo espíritu de irreverencia y diversión es lo que traemos a nuestra tienda, donde celebramos el arte del bigote en todas sus formas. Ven y explora nuestra colección de productos, desde ceras y peines hasta camisetas curiosas y artículos de novedad. Te prometemos que te irás con una sonrisa en la cara y un poco del ingenio de Groucho en tu corazón."</p>
 </div>
 <div style="text-align: end">
-<h3  style="display: inline-block"  >~Groucho Marx</h3>    <img style="width: 100px" src="https://www.elcorteingles.es/centroscomerciales/uploads/event/main_picture/4246/Imatge_presentaci__6_d_octubre_-_Ventura.png" alt="">
+<h3  style="display: inline-block"  >~Groucho Marx</h3>    <a href="/"><img style="width: 100px" src="https://www.elcorteingles.es/centroscomerciales/uploads/event/main_picture/4246/Imatge_presentaci__6_d_octubre_-_Ventura.png" alt=""></a>
 </div>
 </body>
 </html>

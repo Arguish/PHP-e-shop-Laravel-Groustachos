@@ -58,8 +58,10 @@
   </header>
   <div class="container">
     <p>Bienvenido a la Tienda de Bigotes, donde encontrarás los mejores bigotes de todo el mundo. Tenemos una gran variedad de estilos y colores para satisfacer las necesidades de cada cliente. ¿Estás listo para lucir un bigote increíble?</p>
+    <a href="products" class="btn">Groustachos</a>
     <a href="aboutus" class="btn">Sobre nosotros</a>
     <a href="contact" class="btn">Contacto</a>
+    <a href="user" class="btn">Usuarios</a>
   </div>
 </body>
 </html>

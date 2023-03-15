@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\ProductController;
+use App\Http\Controllers\UserController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ViewController;
 
@@ -23,3 +25,8 @@ Route::get('/aboutus', [ViewController::class,'load']);
 Route::get('/contact',function(){
     return view('contact');
 });
+
+Route::get('/products',[ProductController::class,'list']
+);
+
+Route::get('/user',[UserController::class,'list']);
